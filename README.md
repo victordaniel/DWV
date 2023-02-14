@@ -1,5 +1,6 @@
 # DWV
-Questionwhat do you mmean by parse function in pandas ? what is their functionality?
+Question:  
+what do you mmean by parse function in pandas ? what is their functionality?
 Answer:
         In Pandas, the parse function is not a built-in function, but rather refers to the various functions used for parsing (i.e., converting) data from one format to another.
 
